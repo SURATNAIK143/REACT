@@ -1,13 +1,4 @@
-.App{
-  display: flex;
-}
-.videoWrap{
-  width: 100%;
-  display: flex;
-}
-.videoBox{
-  padding: 10px;
-}
-.videoBox img{
-  width:250px;
+* {
+  margin: 0;
+  padding: 0;
 }
